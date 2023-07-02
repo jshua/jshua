@@ -1,6 +1,6 @@
 <h2 align="center"> w-who am i??? </h2>
   <div align="center">
-<img src="https://tenor.com/bWumR.gif" align="right">
+<img src="https://i.imgur.com/yel5kTf.jpg" align="right">
   </div>
 <li>
  <b>name:</b> j-joshie... </li>
