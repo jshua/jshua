@@ -5,10 +5,10 @@
 <li>
  <b>name:</b> j-joshie... </li>
 <li>
-<b>fursona:</b> cummy wummy woofy kins
+<b>fursona:</b> wummy woofy kins
 </li>
 <li>
-<b>loves:</b> anime, osu, femboys.. hehe uwu
+<b>loves:</b> anime, and osu.. hehe uwu
 </li>
 <li>
 <b>gender:</b> cute anime boy uWu
