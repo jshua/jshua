@@ -16,5 +16,4 @@
 <li>
 <b>hobbys:</b> touching memory inappropriately..
 </li>
-<br><br><br>
 </div>
